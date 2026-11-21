@@ -7,7 +7,7 @@ An ultra-modern, fully responsive luxury real estate website designed for **Real
 - **Hero Showcase:** Official portrait of Realtor Imran Khan at Etihad Town with achievement badges and verified credentials.
 - **Direct WhatsApp Conversion:** Single prominent pulsing WhatsApp button connecting directly to `03179993990`.
 - **Instagram Integration:** Direct link to official Instagram profile (`@realtor_imran_khan`) with dedicated video/reels showcase section.
-- **Prime Societies Focus:** Focused presentation for **Etihad Town (Phase 1 & 2)**, **DHA Lahore**, and **Lake City & Ring Road Corridors**.
+- **Etihad Town Specialist:** Complete coverage and priority inventory across all 5 Phases of **Etihad Town Lahore** (Phase 1, 2, 3, 4, 5) and **Etihad Town Sialkot (Etihad Garden)**.
 - **Services Showcase:** Plot & house shortlisting, legal due-diligence, commercial portfolios, and overseas Pakistani investor desk.
 - **Client Testimonials:** Domestic and international investor reviews with 5-star ratings.
 - **Consultation Form:** Direct inquiry submission that auto-formats into a WhatsApp message.
