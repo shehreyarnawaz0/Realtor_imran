@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 75" width="380" height="75">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="45%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="shieldBlueBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <filter id="blueShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#1D4ED8" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <!-- Emblem Badge -->
+  <g transform="translate(6, 6)" filter="url(#blueShadow)">
+    <rect width="63" height="63" rx="16" fill="url(#shieldBlueBg)" stroke="#38BDF8" stroke-width="1.8"/>
+    
+    <!-- Architectural Roof & Towers -->
+    <g transform="translate(31.5, 32.5)">
+      <!-- Roof apex -->
+      <path d="M -18 -8 L 0 -22 L 18 -8 L 13 -8 L 0 -18 L -13 -8 Z" fill="#FFFFFF"/>
+      <polygon points="0,-24 1.5,-21.5 4,-21.5 2,-19.5 2.7,-17 0,-18.5 -2.7,-17 -2,-19.5 -4,-21.5 -1.5,-21.5" fill="#38BDF8"/>
+      
+      <!-- 'I' Letter / Pillar -->
+      <rect x="-14" y="-5" width="5.5" height="19" rx="1.2" fill="#FFFFFF"/>
+      
+      <!-- Central Skyscraper line -->
+      <rect x="-6" y="-11" width="3" height="25" rx="1" fill="#38BDF8" opacity="0.95"/>
+      
+      <!-- 'K' Letter / Angles -->
+      <rect x="-0.5" y="-5" width="5" height="19" rx="1.2" fill="#FFFFFF"/>
+      <path d="M 4.5 4 L 14 -5 L 18 -5 L 7.5 4.5 L 18 14 L 13.5 14 Z" fill="#38BDF8"/>
+      
+      <!-- Pedestal / Foundation -->
+      <rect x="-19" y="16.5" width="38" height="2" rx="1" fill="#FFFFFF"/>
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <g transform="translate(82, 0)">
+    <!-- Subtitle Tagline Top -->
+    <text x="0" y="24" font-family="'Cinzel', 'Playfair Display', Georgia, serif" font-size="12" font-weight="800" letter-spacing="3.5" fill="#2563EB">
+      REALTOR
+    </text>
+    
+    <!-- Main Name in Deep Navy -->
+    <text x="0" y="47" font-family="'Plus Jakarta Sans', -apple-system, sans-serif" font-size="22" font-weight="800" letter-spacing="0.5" fill="#0F172A">
+      IMRAN KHAN
+    </text>
+    
+    <!-- Subtitle Bottom Badge -->
+    <text x="0" y="63" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="600" letter-spacing="2.5" fill="#64748B">
+      LUXURY REAL ESTATE CONSULTANT
+    </text>
+  </g>
+</svg>

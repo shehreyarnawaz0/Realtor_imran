@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="favBlueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="14" fill="url(#favBlueGrad)" stroke="#38BDF8" stroke-width="1.8"/>
+
+  <g transform="translate(32, 33)">
+    <path d="M -18 -8 L 0 -22 L 18 -8 L 13 -8 L 0 -18 L -13 -8 Z" fill="#FFFFFF"/>
+    <rect x="-14" y="-5" width="5.5" height="19" rx="1.5" fill="#FFFFFF"/>
+    <rect x="-6.5" y="-11" width="3" height="25" rx="1" fill="#38BDF8"/>
+    <rect x="-1" y="-5" width="5" height="19" rx="1.5" fill="#FFFFFF"/>
+    <path d="M 4 4 L 14 -5 L 18 -5 L 7.5 4.5 L 18 14 L 13.5 14 Z" fill="#38BDF8"/>
+    <rect x="-19" y="16.5" width="38" height="2" rx="1" fill="#FFFFFF"/>
+    <polygon points="0,-24 1.8,-21.5 4.5,-21.5 2.3,-19.5 3,-17 0,-18.5 -3,-17 -2.3,-19.5 -4.5,-21.5 -1.8,-21.5" fill="#38BDF8"/>
+  </g>
+</svg>
